@@ -1,0 +1,23 @@
+{
+  "name": "introduction-to-programming-with-javascript",
+  "version": "1.0.0",
+  "description": "Repository for working through Launch School's [Introduction to Programming with JavaScript](https://launchschool.com/books/javascript) Book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaddeuspearson/Introduction-to-Programming-with-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaddeuspearson/Introduction-to-Programming-with-JavaScript/issues"
+  },
+  "homepage": "https://github.com/thaddeuspearson/Introduction-to-Programming-with-JavaScript#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
